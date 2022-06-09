@@ -32,3 +32,16 @@ Rootkit: Perangkat lunak berhaya yang memungkinkan pengguna yang tidak sah memil
    - client side: ia menemukan kerentanan pada perangkat lunak komputer client, seperti sebagai workstation karyawan.
    - wireless: tes ini memeriksa semua perangkat nirkabel yang di gunakan di perusahaan.
    - social enginnering: mendapatkan informasi rahasia dengan menipu seorang karyawan perusahaan untuk menggunakan barang-barang tersebut.
+
+
+Metasploit Attack
+
+Adalah kerangka kerja pengujian penetrasi yang membuat peretasan menjadi sederhana.
+1. active exploit: 
+   - Mengekploitasi komputer tertentu. berjalan sampai eksekusi dan kemudian keluar.
+   - Menggunakan brute force dan kemudian keluar ketika terjadi kesalahan
+
+2. passive exploit:
+   - Eksploitasi ini menunggu permintaan masuk dan mengeksploitasinya segera setelah terhubung.
+   - Juga dapat digunakan bersama dengan email dan juga browser web.
+   
